@@ -48,6 +48,7 @@ p {
     padding: 1rem;
     border-radius: 1.15rem;
     margin: 0 auto;
+    box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.04);
 }
 
 img {
